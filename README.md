@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **a website for a music entertainment agency.**
 
-- 🌱 I’m currently learning **about the four pillars of OOP and Node**
+- 🌱 I’m currently learning **about CRUD and MVC! Wild!
 
 - 👨‍💻 All of my projects are available at [https://gian-carnero.netlify.app/](https://gian-carnero.netlify.app/)
 
