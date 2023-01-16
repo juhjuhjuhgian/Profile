@@ -86,22 +86,24 @@
 </div>
 </td>
 <td width="50%">
-<h3 align="center" color="white">Project Coming Soon</h2>
+<h3 align="center" color="white">Sleep Tracker App</h2>
 <div align="center" >  
 <a href='' target="_blank">
-<img src="" alt="" height="auto" width="100%" />
+<img src="sleep-tracker-app.gif" alt="Sleep Tracker App" height="auto" width="100%" />
 </a>
+<br>
+<br>
 <br>
 <br>
 <p>
-<a href="" target="_blank">
+<a href="https://github.com/juhjuhjuhgian/sleep-tracker" target="_blank">
 <img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
 </a>  
-<a href="" target="_blank">
+<a href="https://juhjuhjuhgian-sleep-tracker-app-2023.onrender.com/" target="_blank">
 <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=005da8"/>
 </a>
 </p>
-<p><strong></strong> — </p>
+<p><strong>HTML5, CSS, Javascript, Node, MongoDB, EJS, MVC</strong> I built a sleep tracker app for myself to help me log and keep track of my sleep and to practice MVC. </p>
 </div>
 </td>
 <tr>
