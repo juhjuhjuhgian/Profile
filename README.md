@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **a website for a music entertainment agency.**
 
-- 🌱 I’m currently learning **about CRUD and MVC! Wild!**
+- 🌱 I’m currently learning **about MVC and Auth! Wild!**
 
 - 👨‍💻 All of my projects are available at [https://gian-carnero.netlify.app/](https://gian-carnero.netlify.app/)
 
