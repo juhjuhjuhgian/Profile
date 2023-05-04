@@ -26,41 +26,42 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center" color="white">Kusina De Manila Restaurant Site</h2>
+<h3 align="center" color="white">Booker Meeting Scheduler App</h2>
 <div align="center" >  
 <a href='https://www.kusinademanila.com/' target="_blank">
-<img src="kusina.gif" alt="Kusina De Manila Restaurant Site" height="auto" width="100%" />
+<img src="https://github.com/juhjuhjuhgian/meetings-mvc-auth-local/blob/main/readmeImg/booking.gif" alt="Booker Site" height="auto" width="100%" />
 </a>
-<br>
 <br>
 <br>
 <p>
-
-<a href="https://www.kusinademanila.com/" target="_blank">
+<a href="https://github.com/juhjuhjuhgian/meetings-mvc-auth-local" target="_blank">
+<img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
+</a>  
+<a href="https://booker.cyclic.app/" target="_blank">
 <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=005da8"/>
 </a>
 </p>
-<p><strong>Wix — Built a responsive website for a client through the Wix website building interface.</p>
+<p><strong>HTML5, CSS, Javascript, Express</strong> - An app created to book meetings while taking the guesswork out of figuring out timezone differences.</p>
 </div>
 </td>
 <td width="50%">
-<h3 align="center" color="white">Heartland Bar and Grill Landing Page</h2>
+<h3 align="center" color="white">Mileage Tracker App</h2>
 <div align="center" >  
-<a href='https://heartland-bar-and-grill.netlify.app/' target="_blank">
-<img src="restaurant.gif" alt="Heartland Bar and Grill Landing Page" height="auto" width="100%" />
+<a href='https://juhjuhjuhgian-mileage-tracker-app-2022.onrender.com/' target="_blank">
+<img src="https://github.com/juhjuhjuhgian/mileage-tracker-app/blob/main/thumbnail.png" alt="Mileage Tracker App" height="auto" width="100%" />
 </a>
 <br>
 <br>
 <p>
 
-<a href="https://github.com/juhjuhjuhgian/This-Is-My-Portfolio/tree/main/Portfolio/html5up-editorial" target="_blank">
+<a href="https://github.com/juhjuhjuhgian/mileage-tracker-app" target="_blank">
 <img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
 </a>  
-<a href="https://heartland-bar-and-grill.netlify.app/" target="_blank">
+<a href="https://juhjuhjuhgian-mileage-tracker-app-2022.onrender.com/" target="_blank">
 <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=005da8"/>
 </a>
 </p>
-<p><strong>JavaScript, CSS3, HTML5</strong> — Created a responsive desktop and mobile website for customers of Heartland Bar and Grill.</p>
+<p><strong>HTML5, CSS, Javascript, Express</strong> — An app I created to help my coworkers and myself track mileage on vehicle usage.</p>
 </div>
 <tr>
 </td>
@@ -130,22 +131,23 @@
 ---->
 <tr>
 <td width="50%">
-<h3 align="center" color="white">Booker Meeting Scheduler App</h2>
+<h3 align="center" color="white">Heartland Bar and Grill Landing Page</h2>
 <div align="center" >  
-<a href='https://www.kusinademanila.com/' target="_blank">
-<img src="https://github.com/juhjuhjuhgian/meetings-mvc-auth-local/blob/main/readmeImg/booking.gif" alt="Booker Site" height="auto" width="100%" />
+<a href='https://heartland-bar-and-grill.netlify.app/' target="_blank">
+<img src="restaurant.gif" alt="Heartland Bar and Grill Landing Page" height="auto" width="100%" />
 </a>
 <br>
 <br>
 <p>
-<a href="https://github.com/juhjuhjuhgian/meetings-mvc-auth-local" target="_blank">
+
+<a href="https://github.com/juhjuhjuhgian/This-Is-My-Portfolio/tree/main/Portfolio/html5up-editorial" target="_blank">
 <img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
 </a>  
-<a href="https://booker.cyclic.app/" target="_blank">
+<a href="https://heartland-bar-and-grill.netlify.app/" target="_blank">
 <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=005da8"/>
 </a>
 </p>
-<p><strong>HTML5, CSS, Javascript, Express</strong> - An app created to book meetings while taking the guesswork out of figuring out timezone differences.</p>
+<p><strong>JavaScript, CSS3, HTML5</strong> — Created a responsive desktop and mobile website for customers of Heartland Bar and Grill.</p>
 </div>
 </td>
   
