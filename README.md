@@ -70,7 +70,7 @@
 <tr>
 </td>
 <td width="50%">
-<h3 align="center" color="white">Mileage Tracker App</h2>
+<h3 align="center" color="white">Mileage Counter Co.</h2>
 <div align="center" >  
 <a href='https://juhjuhjuhgian-mileage-tracker-app-2022.onrender.com/' target="_blank">
 <img src="https://github.com/juhjuhjuhgian/mileage-tracker-app/blob/main/thumbnail.png" alt="Mileage Tracker App" height="auto" width="100%" />
