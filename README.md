@@ -38,10 +38,10 @@
 <br>
 <br>
 <br>
-<a href="https://climbon.onrender.com" target="_blank">
+<a href="https://github.com/juhjuhjuhgian/climbOn" target="_blank">
 <img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
 </a>  
-<a href="https://juhjuhjuhgian-mileage-tracker-app-2022.onrender.com/" target="_blank">
+<a href="https://climbon.onrender.com" target="_blank">
 <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=005da8"/>
 </a>
 </p>
